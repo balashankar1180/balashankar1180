@@ -1,7 +1,0 @@
-Connection String in ASP.NET Core
-=============================
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=your_server_name;Database=your_database_name;User Id=your_username;Password=your_password;"
-  }
-}
